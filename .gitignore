@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.DS_Store
+
+# the collection is licensed and not redistributed (see data/README.md); indexes are rebuilt locally
+data/*
+!data/README.md
+results/*.log

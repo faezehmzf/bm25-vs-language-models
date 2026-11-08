@@ -1,0 +1,38 @@
+{
+ "stop-porter": {
+  "articles": 113005,
+  "indexed_documents": 110282,
+  "empty_after_analysis": 2723,
+  "vocabulary": 181082,
+  "tokens": 39809040,
+  "mean_document_length": 361.0,
+  "seconds": 21.1
+ },
+ "stop-nostem": {
+  "articles": 113005,
+  "indexed_documents": 110282,
+  "empty_after_analysis": 2723,
+  "vocabulary": 234370,
+  "tokens": 39809040,
+  "mean_document_length": 361.0,
+  "seconds": 18.8
+ },
+ "nostop-porter": {
+  "articles": 113005,
+  "indexed_documents": 110282,
+  "empty_after_analysis": 2723,
+  "vocabulary": 181148,
+  "tokens": 62878287,
+  "mean_document_length": 570.2,
+  "seconds": 23.2
+ },
+ "nostop-nostem": {
+  "articles": 113005,
+  "indexed_documents": 110282,
+  "empty_after_analysis": 2723,
+  "vocabulary": 234526,
+  "tokens": 62878287,
+  "mean_document_length": 570.2,
+  "seconds": 21.7
+ }
+}
